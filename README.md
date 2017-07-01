@@ -1,7 +1,7 @@
 Playable Synthesizer
 ================
 
-This repository contains the code for playable piano for Garry's Mod. The content is available on the Steam Workshop.
+This repository contains the code for playable synthersizer for Garry's Mod. The content is available on the Steam Workshop.
 
 ### Links ###
 
